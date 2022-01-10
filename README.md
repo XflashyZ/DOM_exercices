@@ -1,2 +1,3 @@
-# DOM_exercices
- exercicios
+# DOM_Exercicies
+ Exercícios com DHTML.
+
